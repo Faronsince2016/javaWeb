@@ -1,5 +1,4 @@
-package com.netease;
-
+package com.faron
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Date;
