@@ -1,4 +1,4 @@
-package com.faron;
+package com.netease;
 
 import java.io.IOException;
 import java.io.PrintWriter;
